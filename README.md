@@ -5,7 +5,7 @@ JSON Story format found in Utils/Stories.json
 
 Examples: https://www.youtube.com/@TheRedditVault13
 
-![Title_Image][utils/reddit_frame.png]
+![Title_Image][[utils/reddit_frame.png](https://github.com/NoahLundie13/Reddit-Video-Generator/blob/main/utils/reddit_frame.png)]
 Modify frame with your own name, and Youtube profile picture.
 
 
