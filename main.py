@@ -1,7 +1,6 @@
 from moviepy.editor import VideoFileClip, AudioFileClip, ImageClip, CompositeVideoClip, TextClip, concatenate_audioclips
 from moviepy.video.tools.subtitles import SubtitlesClip
 from moviepy.config import change_settings
-from moviepy.video.fx import all as vfx
 from PIL import Image, ImageDraw, ImageFont
 from utils.box import make_title_box
 from googleapiclient.http import MediaFileUpload
