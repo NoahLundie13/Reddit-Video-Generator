@@ -5,9 +5,7 @@ JSON Story format found in Utils/Stories.json
 
 Examples: https://www.youtube.com/@TheRedditVault13
 
-![Title_Image](utils/reddit_frame.png)
-\nModify frame with your own name, and Youtube profile picture.
+![Title_Image](utils/reddit_frame.png) \
+Modify frame with your own name, and Youtube profile picture.
 
-\n
-\n
 ***NOTE: You need to add a gameplay.mp4 file into utils for this script to work***
