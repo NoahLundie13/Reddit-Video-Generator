@@ -9,4 +9,4 @@ Examples: https://www.youtube.com/@TheRedditVault13
 Modify frame with your own name, and Youtube profile picture.
 
 
-***NOTE: You need to add a gameplay.mp4 file into utils for this script to work
+***NOTE: You need to add a gameplay.mp4 file into utils for this script to work***
