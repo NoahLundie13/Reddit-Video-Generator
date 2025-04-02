@@ -1,0 +1,9 @@
+.env
+
+utils/
+__pycache__/
+*.pyc
+
+utils/client_secret_14235180439-3f1rpo91ctur0t80tte4vb14o4iuvug1.apps.googleusercontent.com.json
+
+utils/token.pickle
