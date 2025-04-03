@@ -286,7 +286,7 @@ def make_story():
         if os.path.exists(story_path): cleanup()
         upload_video(youtube, story_path, title, description, tags)
     else: 
-        i = 3
+        i = 1
         for part in parts:       
             title, gender, num_parts, description, tags, parts = load_story(count)
             story_path = f"Stories/Story_{count}/Reddit_Story_{i}.mp4"
